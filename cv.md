@@ -21,3 +21,11 @@ At the moment I have the following skills and knowledge:
 * I own HTML5, CSS3 and Markdown;
 * I can use GitHub and am actively studying the Git system;
 * I can work at VS Code, Atom and Sublime Text 3.
+
+### My code
+
+My successful code is on GitHub, and by clicking on [this link](https://github.com/RuslanSedov?tab=repositories) you can view my public repositories.
+
+### Work experience
+
+At the moment I haven't work experience, but I am actively taking courses from [Rolling Scopes School](https://app.rs.school/).
