@@ -3,3 +3,21 @@ body {
     text-align: center;
     max-width: 1024px;
 }
+
+ul {
+    list-style-type: none;
+}
+
+ul.skills {
+    font-size: large;
+}
+
+
+p {
+    font-size: large;
+}
+
+img.I {
+    width: 128px;
+    height: 160px;
+}
