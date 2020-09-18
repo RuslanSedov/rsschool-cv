@@ -29,3 +29,13 @@ My successful code is on GitHub, and by clicking on [this link](https://github.c
 ### Work experience
 
 At the moment I haven't work experience, but I am actively taking courses from [Rolling Scopes School](https://app.rs.school/).
+
+### Education
+
+I graduated from high school with a gold medal, now I am a first-year student at the [Faculty of IT](https://synergy.ru/abiturientam/faculties/it).
+In addition to this, I am taking a Frontend Programming course from [Rolling Scopes School](https://app.rs.school/).
+I also took various trainings on self-development from [Radislav Gandapas](http://radislavgandapas.com/trainings/) and the [School Charisma on Command](http://charismaoncommand.ru/).
+
+### My English
+
+My English level is the A2, but I am keep learning. For exampe, not long ago I bought some English courses to improve it. I don't forget to pay attention of learning professional vocabulary.
