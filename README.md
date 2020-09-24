@@ -1,4 +1,4 @@
-# rsschool-cv
+# CV
 https://RuslanSedov.github.io/rsschool-cv/cv
 
 
